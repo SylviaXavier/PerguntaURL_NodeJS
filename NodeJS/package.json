@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "query-string": "^7.1.1"
+  },
+  "name": "pergunta-resposta-nodejs",
+  "version": "1.0.0",
+  "description": "pacote para testar e iniciar o conhecimento do NPM",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pergunta",
+    "url",
+    "resposta"
+  ],
+  "author": "Sylvia Xavier",
+  "license": "ISC"
+}
